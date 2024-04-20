@@ -1,0 +1,6 @@
+pitemp/bin/*
+pitemp/include/*
+pitemp/lib/*
+pitemp/lib64
+pitemp/.env
+pitemp/*.cfg
