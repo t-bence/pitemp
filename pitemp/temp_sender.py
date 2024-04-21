@@ -43,5 +43,6 @@ async def run():
 
         # Send the batch of events to the event hub.
         await producer.send_batch(event_data_batch)
+        print("Data was successfully sent.")
 
 asyncio.run(run())
