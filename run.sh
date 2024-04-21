@@ -1,3 +1,3 @@
-source /home/pi/pitemp/bin/activate
+source /home/pi/pitemp/pitemp/bin/activate
 python /home/pi/pitemp/pitemp/temp_sender.py
 deactivate
